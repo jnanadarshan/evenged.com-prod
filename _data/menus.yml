@@ -4,13 +4,13 @@ topmenu:
 - title: Home
   url: ""
 
-- title: About
+- title: Properties
   url: "about/"
 
-- title: Contact
+- title: Support
   url: "contact/"
 
-- title: Get this theme  
+- title: Book Now 
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
@@ -27,6 +27,9 @@ footermenu:
 - title: Contact
   url: "contact/"
 
-- title: Download
+- title: Support
+  url: "contact/"
+
+- title: Find a Property
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
   external: true
