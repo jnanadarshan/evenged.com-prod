@@ -1,6 +1,6 @@
 title: "Evenge Serviced Apartments | Long Stays | Luxury Home Stays | Society Stays"
 email: enquiry@evenged.com
-timezone: UTC
+timezone: IST
 baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
